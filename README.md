@@ -1,3 +1,8 @@
+# Blog Pusher
+
+A blog entry form app that lets me create blog entries and pushes to my firestore database and updates my website.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
